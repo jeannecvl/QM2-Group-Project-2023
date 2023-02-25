@@ -1,0 +1,6 @@
+streamlit
+pandas
+uvicorn
+matplotlib
+seaborn==0.11.0
+statsmodels==0.13.2
