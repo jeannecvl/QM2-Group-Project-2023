@@ -16,4 +16,8 @@ All the informations on how to find our either a link to our datasets, or the da
 
 
 ### data_analysis
+* Notebook of our analysis and visualization: stats_regression.ipynb
+* Notebook of the panel statistics and complementary analysis: panel.ipynb
 
+
+### streamlit
