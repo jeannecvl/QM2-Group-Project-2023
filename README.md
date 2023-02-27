@@ -7,7 +7,7 @@ All the informations on how to find our either a link to our datasets, or the da
 
 ### Pre-processing
 * Notebook on how we prepared the tweet before hydration: tweets_preparation.ipynb
-* Notebook on how we removed the hydrated the unnecessary information from the hydrated tweets and added back the BERT label: reduce_tweets.ipynb
+* Notebook on how we removed the hydrated the unnecessary information from the hydrated tweets and added back the BERT label: reducing_tweets.ipynb
 * Notebook on how we cleaned the stringency index data: cleaning_stringency.ipynb
 * Notebook on how we cleaned the COVID data: cleaning_covid.ipynb
 * Notebook on how we cleaned the crime data: cleaning_crime.ipynb
