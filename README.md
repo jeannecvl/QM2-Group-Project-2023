@@ -1,10 +1,6 @@
 ## qm2_group_11_2023
 ## Content of this repository
 
-### datasets
-All the informations on how to find our either a link to our datasets, or the dataset itself.
-
-
 ### data_preprocessing
 * Notebook on how we prepared the tweet before hydration: tweets_preparation.ipynb
 * Notebook on how we removed the hydrated the unnecessary information from the hydrated tweets and added back the BERT label: reducing_tweets.ipynb
