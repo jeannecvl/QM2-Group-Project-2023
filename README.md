@@ -10,6 +10,7 @@
 * Notebook on how we cleaned the tweets: cleaning_tweets.ipynb , in particular there was a number of 53 states where it should have been 50, this code was used to fix this matter
 * Notebook on how we merged all our 4 dataset into on unique dataset: merging.ipynb
 
+Sidenote: The cleaning and merging notebooks originiate from one notebook, they were separated to make their reading easier. If you encounter any error with the code when you try to run it, please use this notebook: all_cleaning_merging.ipynb
 
 ### data_analysis
 * Notebook of our analysis and visualization: stats_regression.ipynb
