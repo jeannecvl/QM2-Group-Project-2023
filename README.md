@@ -17,4 +17,11 @@ Sidenote: The cleaning and merging notebooks originiate from one notebook, they 
 * Notebook of the panel statistics and complementary analysis: panel.ipynb
 
 
+### datasets
+All the datasets used in the context of our project are available at: 
+https://www.dropbox.com/scl/fo/jnyiu4wzr8yd5m73k8cnu/h?dl=0&rlkey=gmkup83ch0fd7wjof98lf395j
+
+The labelled tweets IDs from the CLAWS are available at:
+https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0
+
 ### streamlit
