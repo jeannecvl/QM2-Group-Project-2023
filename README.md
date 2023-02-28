@@ -1,4 +1,4 @@
-## qm2_group_11_2023
+## QM2 2023 - Group 11
 ## Content of this repository
 
 ### data_preprocessing
