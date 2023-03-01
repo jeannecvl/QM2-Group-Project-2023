@@ -23,3 +23,17 @@ All the datasets used in the context of our project are available at: https://ww
 The labelled tweets IDs from the  Computational Data Lab for the Web and Society (CLAWS) based at Georgia Tech University are available at: https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0
 
 ### streamlit
+The purpose of using streamlit was show the trend following the social perception amidst covid 19. The categorization was made on per state basis to individually visualize the pattern of hate tweets, crimes, and covid cases/stringency index against time [covid 19].   
+
+Following steps were taken to create the streamlit application: 
+1. Data categorized by state was imported. 
+2. Select Boxes were used as option to select state and covid measure type [cases or index] 
+3. Line Charts were then used to plot the interactive graphs 
+4. As an added step, the data for the whole of the US was also added as option to the select box, a number of preprocessing steps were made before the data was ready to be visualized.  
+
+The next step was to deploy the streamlit application to Heroku: 
+1. Heroku has number of options to deploy the application. 
+2. GitHub method was selected, and data was first uploaded to GitHub and then Heroku was referred the repository for the deployment codes. 
+3. The Procfile was used for configuration and running the streamlit application. 
+4. Requirement.txt file was produced to import necessary libraries to Heroku. 
+5. Finally the application was deployed on Heroku and a link to access the web application was generated
